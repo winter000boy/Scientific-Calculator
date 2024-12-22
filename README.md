@@ -82,7 +82,7 @@ This project is distributed under the MIT License. See `LICENSE` file for more i
 
 Durgesh Sharma - [sharmajdurgesh04@gmail.com](mailto:sharmajdurgesh04@gmail.com)
 
-Project Link: [https://github.com/winter000boy/Scientific-Calculator](https://github.com/winter000boy/Scientific-Calculator)
+Project Link: [https://github.com/winter000boy/Scientific-Calculator.git](https://github.com/winter000boy/Scientific-Calculator.git)
 
 ## Keywords
 
